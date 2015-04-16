@@ -77,6 +77,13 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="index.html" />
+    <Content Include="music.html" />
+    <Content Include="music_accordion.html" />
+    <Content Include="navbar.html" />
+    <Content Include="offset.html">
+      <BrowseToURL>~/navbar.html</BrowseToURL>
+    </Content>
+    <Content Include="printhide.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\npm.js" />
