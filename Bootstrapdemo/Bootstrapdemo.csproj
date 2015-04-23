@@ -76,6 +76,7 @@
     <Content Include="css\bootstrap.css" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="forms.html" />
     <Content Include="index.html" />
     <Content Include="music.html" />
     <Content Include="music_accordion.html" />
